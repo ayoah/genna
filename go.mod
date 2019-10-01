@@ -1,4 +1,4 @@
-module github.com/dizzyfool/genna
+module github.com/ayoah/genna
 
 require (
 	github.com/fatih/camelcase v1.0.0
